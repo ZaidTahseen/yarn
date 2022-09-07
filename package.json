@@ -1,0 +1,24 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ZaidTahseen/yarn.git",
+  "author": "Tahseen Zaid <tahseennz@weblineapps.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "localtunnel": "^2.0.2"
+  },
+  "peerDependencies": {
+    "async": "^3.2.4"
+  },
+  "optionalDependencies": {
+    "async": "^3.2.4"
+  }
+}
